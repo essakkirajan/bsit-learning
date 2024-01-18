@@ -14,7 +14,7 @@
         "Image": "images/categories/sharepoint.png",
         "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
         "SubjectId": null,
-        "Source": "Microsoft",
+        "Source": "LP",
         "SubCategories": []
       },
       {
@@ -23,7 +23,7 @@
         "Image": "images/categories/forms_training.png",
         "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
         "SubjectId": null,
-        "Source": "Microsoft",
+        "Source": "PL",
         "SubCategories": []
       }
     ]
