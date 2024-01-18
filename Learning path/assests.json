@@ -1,1 +1,24 @@
-
+[
+  {
+    "Id": "7e5c4131-e943-4636-8da1-94dee5915e51",
+    "Title": "Add Text and Tables to your modern page",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/add-text-and-tables-to-your-page-with-the-text-web-part-729c0aa1-bc0d-41e3-9cde-c60533f2c801?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "ea0f182d-eeb4-44b5-8432-eef0ef449634",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "ecee7e26-7ac3-41b2-8d06-90843e3ec7a7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "887652a1-4940-4ea3-b454-e93217acab95",
+    "Title": "Create a form",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/39a23830-452d-474c-ae1f-47a6ebefa21a?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "8ee6a04b-6c0a-45db-b11d-87d7a9582443",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }
+]
