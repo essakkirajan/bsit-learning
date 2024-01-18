@@ -1,1 +1,37 @@
 
+[
+  {
+    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+    "Title": "Modern SharePoint Editing Experience",
+    "Image": "images/playlists/share_and_coauthor.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
+    "TechnologyId": "ea0f182d-eeb4-44b5-8432-eef0ef449634",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+    "Description": "Learn about the text editor web part to add text content, formatting and display.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "7e5c4131-e943-4636-8da1-94dee5915e51"
+    ]
+  },
+  {
+    "Id": "d9ce4776-272c-4b62-8f17-d71326e71230",
+    "Title": "Getting started with Microsoft Forms",
+    "Image": "images/playlists/forms_quick_startx.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
+    "TechnologyId": "8ee6a04b-6c0a-45db-b11d-87d7a9582443",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "daeade40-9dfc-4d82-84be-9ae7544829dc",
+    "Description": "Learn about the text editor web part to add text content, formatting and display.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "887652a1-4940-4ea3-b454-e93217acab95"
+    ]
+  }
+]
